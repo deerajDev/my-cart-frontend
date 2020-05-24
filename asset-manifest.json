@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-cart-frontend/static/css/main.352e3dad.chunk.css",
+    "main.js": "/my-cart-frontend/static/js/main.23ad63f8.chunk.js",
+    "main.js.map": "/my-cart-frontend/static/js/main.23ad63f8.chunk.js.map",
+    "runtime-main.js": "/my-cart-frontend/static/js/runtime-main.2f0b4295.js",
+    "runtime-main.js.map": "/my-cart-frontend/static/js/runtime-main.2f0b4295.js.map",
+    "static/js/2.1136bab8.chunk.js": "/my-cart-frontend/static/js/2.1136bab8.chunk.js",
+    "static/js/2.1136bab8.chunk.js.map": "/my-cart-frontend/static/js/2.1136bab8.chunk.js.map",
+    "index.html": "/my-cart-frontend/index.html",
+    "precache-manifest.6e238ffb74c748a7b279724b5930c973.js": "/my-cart-frontend/precache-manifest.6e238ffb74c748a7b279724b5930c973.js",
+    "service-worker.js": "/my-cart-frontend/service-worker.js",
+    "static/css/main.352e3dad.chunk.css.map": "/my-cart-frontend/static/css/main.352e3dad.chunk.css.map",
+    "static/js/2.1136bab8.chunk.js.LICENSE.txt": "/my-cart-frontend/static/js/2.1136bab8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-cart-frontend/static/media/logo.35f0b6b3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f0b4295.js",
+    "static/js/2.1136bab8.chunk.js",
+    "static/css/main.352e3dad.chunk.css",
+    "static/js/main.23ad63f8.chunk.js"
+  ]
+}
