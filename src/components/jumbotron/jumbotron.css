@@ -1,0 +1,28 @@
+.jumbotron_container {
+  width: 342px;
+  height: 66px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 40px auto 30px;
+}
+
+.left_bar {
+  width: 7px;
+  height: 66px;
+  background: #4592af;
+  border-radius: 29px;
+}
+
+.jumbotron_text {
+  width: 320px;
+  height: 50px;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #000000;
+}
+
+.jumbotron_link_text {
+  color: #87c3d9;
+}
