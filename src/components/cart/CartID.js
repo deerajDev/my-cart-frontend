@@ -13,7 +13,7 @@ const CartID = () => {
   const [cartID, setCartID] = useState("");
   const history = useHistory();
   const onClickHandler = useCallback(() => {
-    history.push("/active");
+    history.push("/my-cart-frontend/active");
   }, [history]);
 
   const createCartID = async () => {

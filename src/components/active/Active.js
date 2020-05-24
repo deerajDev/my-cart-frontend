@@ -14,7 +14,7 @@ const Active = () => {
   const cartID = JSON.parse(localStorage.getItem("cart_id"));
   const history = useHistory();
   const onClickHandler = useCallback(() => {
-    history.push("/items");
+    history.push("/my-cart-frontend/items");
   }, [history]);
   return (
     <div className="main_page_container" style={extraStyles}>

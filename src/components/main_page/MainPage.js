@@ -10,7 +10,7 @@ import "./main_page.css";
 const MainPage = () => {
   const history = useHistory();
   const onClickHandler = useCallback(() => {
-    history.push("/shop");
+    history.push("/my-cart-frontend/shop");
   }, [history]);
 
   return (
