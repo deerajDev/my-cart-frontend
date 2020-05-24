@@ -5,7 +5,7 @@ import Logo from "../../common/logo/Logo";
 import Button from "../../common/button/Button";
 import "./cart.css";
 
-const baseUrl = "http://localhost:9000";
+const baseUrl = "https://my-cart-back.herokuapp.com/";
 const url = baseUrl + "/cart/create";
 
 //cartID
@@ -17,7 +17,6 @@ const CartID = () => {
   }, [history]);
 
   const createCartID = async () => {
-    console.log("entered create cartID");
     const body = JSON.stringify({
       cart_id: cartID,
     });

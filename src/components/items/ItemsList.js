@@ -5,7 +5,7 @@ import TotalCost from "./TotalCost";
 import Button from "../../common/button/Button";
 import "./items.css";
 
-const baseUrl = "http://localhost:9000";
+const baseUrl = "https://my-cart-back.herokuapp.com/";
 const url = baseUrl + "/cart/bill";
 let totalBill = 0;
 let totalItems = 0;

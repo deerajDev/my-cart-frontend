@@ -4,7 +4,7 @@ import Button from "../../common/button/Button";
 import "../cart/cart.css";
 import "./add_item.css";
 
-const baseUrl = "http://localhost:9000";
+const baseUrl = "https://my-cart-back.herokuapp.com/";
 const url = baseUrl + "/cart/add_product";
 const AddItem = () => {
   const [productID, setProductID] = useState("");
